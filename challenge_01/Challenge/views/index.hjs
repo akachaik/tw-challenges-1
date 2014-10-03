@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>{{ title }}</title>
+    <link rel='stylesheet' href='/stylesheets/style.css' />
+    <link rel='stylesheet' href='../bower_components/bootstrap/dist/css/bootstrap.css' />
+
+  </head>
+  <body>
+  	<div class="container">
+<div class="alert alert-info" role="alert">
+        <strong>Heads up!</strong> New code challange.
+      </div>
+  <div class="jumbotron">
+        <h1><span class="glyphicon glyphicon-ok"></span> Welcome to My site</h1>
+        <p>My name is Akachai Kaning. I'm a programmer at taskworld.com. I'm inteseted in web technology included css, jquery, bootstrap, asp.net, asp.net mvc, entity framework. Now I'm on the challenge on NodeJs.</p>
+        <p><a href="#" class="btn btn-primary btn-lg" role="button">Learn more &raquo;</a></p>
+      </div>
+      <div class="row">
+      	<div class="col-sm-4">
+			<div class="panel panel-primary">
+            	<div class="panel-heading">
+	              <h3 class="panel-title"><span class="glyphicon glyphicon-search"></span> Series I've Watched</h3>
+	            </div>
+	            <div class="panel-body">
+	            	<ul class="list-group">
+					  <li class="list-group-item">24 Live Anather Day</li>
+					  <li class="list-group-item">Breaking Bad</li>
+					  <li class="list-group-item">The Strain</li>
+					  <li class="list-group-item">The Bridge</li>
+					</ul>
+	            </div>
+          </div>
+      	</div>
+      	<div class="col-sm-4">
+			<div class="panel panel-primary">
+            	<div class="panel-heading">
+	              <h3 class="panel-title"><span class="glyphicon glyphicon-book"></span> Contacs Me</h3>
+	            </div>
+	            <div class="panel-body">
+	            	<ul class="list-group">
+	            		<li class="list-group-item"><a href="http://www.twitter.com/akachaika">Twitter</a></li>
+	            		<li class="list-group-item"><a href="mailto:akachai.k@taskworld.com">Email</a></li>
+	            		<li class="list-group-item"><a href="http://www.facebook.com">Facebook</a></li>
+	            		<li class="list-group-item"><a href="http://www.linkedin.com">LikedIn</a></li>
+	            	</ul>
+	            </div>
+          </div>
+      	</div>
+      	<div class="col-sm-4">
+			<div class="panel panel-primary">
+            	<div class="panel-heading">
+	              <h3 class="panel-title"><span class="glyphicon glyphicon-music"></span> Webs I've visited</h3>
+	            </div>
+	            <div class="panel-body">
+	            	<ul class="list-group">
+					  <li class="list-group-item"><a href="http://www.hanselman.com">Scott Hanselman</a></li>
+					  <li class="list-group-item"><a href="http://haacked.com/">You've Been Haacked</a></li>
+					  <li class="list-group-item"><a href="http://stackoverflow.com/">StackOverflow</a></li>
+					  <li class="list-group-item"><a href="http://blog.codinghorror.com/">Coding Horror</a></li>
+					</ul>
+	            </div>
+          </div>
+      	</div>
+
+      	<div id="footer" class="row">
+
+      	</div>
+
+      </div>
+	</div>
+  </body>
+</html>

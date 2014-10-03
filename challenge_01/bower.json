@@ -1,0 +1,21 @@
+{
+  "name": "challenge_01",
+  "version": "0.0.1",
+  "description": "Taskworld Challenge",
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "homepage": "https://github.com/akachaik/tw-challenges",
+  "authors": [
+    "Akachai Kaning <akachai.k@taskworld.com>"
+  ],
+  "dependencies": {
+    "bootstrap": "~3.2.0"
+  }
+}

@@ -1,0 +1,8 @@
+{
+	"dependencies": {
+    "Express": "*",
+    "Bower ": "*,
+    "Jade ": "*",
+    "Bootstrap": "*"
+  }
+}
